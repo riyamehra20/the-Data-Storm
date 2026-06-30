@@ -2,6 +2,9 @@
 
 A fully functional E-Commerce Single Page Application built with React + Redux Toolkit (RTK), demonstrating advanced global state architecture without prop drilling.
 
+# LIVE DEMO "https://the-data-storm.vercel.app/"
+
+
 ## Tech Stack
 
 | Tool | Purpose |
